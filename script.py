@@ -1,6 +1,6 @@
 from art import *
 
-Art=text2art("PYTHON","rand")
+Art=text2art("PYTHON","rand") 
 print(Art)
 Art2=text2art("ER","rand")
 print(Art2)
